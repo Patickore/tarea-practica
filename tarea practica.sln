@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.32630.194
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tarea practica", "tarea practica.csproj", "{81483166-B969-4521-BCC6-860F429A900A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "programa2", "..\programa2\programa2.csproj", "{078F98C9-BFF4-493C-B404-05FB594D7B32}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{81483166-B969-4521-BCC6-860F429A900A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{81483166-B969-4521-BCC6-860F429A900A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{81483166-B969-4521-BCC6-860F429A900A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{078F98C9-BFF4-493C-B404-05FB594D7B32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{078F98C9-BFF4-493C-B404-05FB594D7B32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{078F98C9-BFF4-493C-B404-05FB594D7B32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{078F98C9-BFF4-493C-B404-05FB594D7B32}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
